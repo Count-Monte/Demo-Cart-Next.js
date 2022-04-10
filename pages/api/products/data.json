@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "Cyberpunk 2077",
+    "category": "xbox",
+    "image": "https://imgur.com/3CF1UhY.png",
+    "description": "Sociosqu facilisis duis ...",
+    "price": 36.49
+  },
+  {
+    "id": 2,
+    "name": "Grand Theft Auto 5",
+    "category": "xbox",
+    "image": "https://imgur.com/BqNWnDB.png",
+    "description": "Sociosqu facilisis duis ...",
+    "price": 21.99
+  },
+  {
+    "id": 3,
+    "name": "Minecraft",
+    "category": "xbox",
+    "image": "https://imgur.com/LXnUnd2.png",
+    "description": "Sociosqu facilisis duis ...",
+    "price": 49.99
+  },
+  {
+    "id": 4,
+    "name": "PUBG",
+    "category": "xbox",
+    "image": "https://imgur.com/Ondg3Jn.png",
+    "description": "Sociosqu facilisis duis ...",
+    "price": 5.09
+  },
+  {
+    "id": 5,
+    "name": "FIFA 21",
+    "category": "xbox",
+    "image": "https://imgur.com/AzT9YMP.png",
+    "description": "Sociosqu facilisis duis ...",
+    "price": 17.49
+  },
+  {
+    "id": 6,
+    "name": "Battlefield 5",
+    "category": "xbox",
+    "image": "https://imgur.com/X3MQNVs.png",
+    "description": "Sociosqu facilisis duis ...",
+    "price": 29.35
+  },
+  {
+    "id": 7,
+    "name": "Watch Dogs 2",
+    "category": "xbox",
+    "image": "https://imgur.com/v3lqCEb.png",
+    "description": "Sociosqu facilisis duis ...",
+    "price": 18.99
+  },
+  {
+    "id": 8,
+    "name": "Fortnite",
+    "category": "ps5",
+    "image": "https://imgur.com/3lTxDpl.png",
+    "description": "Sociosqu facilisis duis ...",
+    "price": 29.99
+  },
+  {
+    "id": 9,
+    "name": "Call of Duty: Black Ops",
+    "category": "ps5",
+    "image": "https://imgur.com/4GvUw3G.png",
+    "description": "Sociosqu facilisis duis ...",
+    "price": 69.99
+  },
+  {
+    "id": 10,
+    "name": "NBA2K21 Next Generation",
+    "category": "ps5",
+    "image": "https://imgur.com/Mxjvkws.png",
+    "description": "Sociosqu facilisis duis ...",
+    "price": 69.99
+  },
+  {
+    "id": 11,
+    "name": "Spider-Man Miles Morales",
+    "category": "ps5",
+    "image": "https://imgur.com/guV5cUF.png",
+    "description": "Sociosqu facilisis duis ...",
+    "price": 29.99
+  },
+  {
+    "id": 12,
+    "name": "Resident Evil Village",
+    "category": "ps5",
+    "image": "https://imgur.com/1CxJz8E.png",
+    "description": "Sociosqu facilisis duis ...",
+    "price": 59.99
+  },
+  {
+    "id": 13,
+    "name": "Assassin's Creed Valhalla",
+    "category": "ps5",
+    "image": "https://imgur.com/xJD093X.png",
+    "description": "Sociosqu facilisis duis ...",
+    "price": 59.99
+  },
+  {
+    "id": 14,
+    "name": "Animal Crossing",
+    "category": "switch",
+    "image": "https://imgur.com/1SVaEBk.png",
+    "description": "Sociosqu facilisis duis ...",
+    "price": 59.99
+  },
+  {
+    "id": 15,
+    "name": "The Legend of Zelda",
+    "category": "switch",
+    "image": "https://imgur.com/IX5eunc.png",
+    "description": "Sociosqu facilisis duis ...",
+    "price": 59.99
+  },
+  {
+    "id": 16,
+    "name": "Stardew Valley",
+    "category": "switch",
+    "image": "https://imgur.com/aL3nj5t.png",
+    "description": "Sociosqu facilisis duis ...",
+    "price": 14.99
+  },
+  {
+    "id": 17,
+    "name": "Mario Golf Super Rush",
+    "category": "switch",
+    "image": "https://imgur.com/CPxlyEg.png",
+    "description": "Sociosqu facilisis duis ...",
+    "price": 59.99
+  },
+  {
+    "id": 18,
+    "name": "Super Smash Bros",
+    "category": "switch",
+    "image": "https://imgur.com/ZuLatzs.png",
+    "description": "Sociosqu facilisis duis ...",
+    "price": 59.99
+  },
+  {
+    "id": 19,
+    "name": "Grand Theft Auto 5",
+    "category": "pc",
+    "image": "https://imgur.com/9LRil4N.png",
+    "description": "Sociosqu facilisis duis ...",
+    "price": 29.99
+  },
+  {
+    "id": 20,
+    "name": "Battlefield V",
+    "category": "pc",
+    "image": "https://imgur.com/T3v629h.png",
+    "description": "Sociosqu facilisis duis ...",
+    "price": 39.99
+  },
+  {
+    "id": 21,
+    "name": "Red Dead Redemption 2",
+    "category": "pc",
+    "image": "https://imgur.com/aLObdQK.png",
+    "description": "Sociosqu facilisis duis ...",
+    "price": 39.99
+  },
+  {
+    "id": 22,
+    "name": "Flight Simulator 2020",
+    "category": "pc",
+    "image": "https://imgur.com/2IeocI8.png",
+    "description": "Sociosqu facilisis duis ...",
+    "price": 59.99
+  },
+  {
+    "id": 23,
+    "name": "Forza Horizon 4",
+    "category": "pc",
+    "image": "https://imgur.com/gLQsp6N.png",
+    "description": "Sociosqu facilisis duis ...",
+    "price": 59.99
+  },
+  {
+    "id": 24,
+    "name": "Minecraft",
+    "category": "pc",
+    "image": "https://imgur.com/qm1gaGD.png",
+    "description": "Sociosqu facilisis duis ...",
+    "price": 29.99
+  },
+  {
+    "id": 25,
+    "name": "Rainbow Six Seige",
+    "category": "pc",
+    "image": "https://imgur.com/JIgzykM.png",
+    "description": "Sociosqu facilisis duis ...",
+    "price": 7.99
+  },
+  {
+    "id": 26,
+    "name": "Xbox Controller",
+    "category": "accessories",
+    "image": "https://imgur.com/a964vBm.png",
+    "description": "Sociosqu facilisis duis ...",
+    "price": 59.0
+  },
+  {
+    "id": 27,
+    "name": "Xbox Controller",
+    "category": "accessories",
+    "image": "https://imgur.com/ntrEPb1.png",
+    "description": "Sociosqu facilisis duis ...",
+    "price": 69.0
+  },
+  {
+    "id": 28,
+    "name": "Gaming Keyboard",
+    "category": "accessories",
+    "image": "https://imgur.com/VMe3WBk.png",
+    "description": "Sociosqu facilisis duis ...",
+    "price": 49.99
+  },
+  {
+    "id": 29,
+    "name": "Gaming Mouse",
+    "category": "accessories",
+    "image": "https://imgur.com/wvpHOCm.png",
+    "description": "Sociosqu facilisis duis ...",
+    "price": 29.99
+  },
+  {
+    "id": 30,
+    "name": "Switch Joy-Con",
+    "category": "accessories",
+    "image": "https://imgur.com/faQ0IXH.png",
+    "description": "Sociosqu facilisis duis ...",
+    "price": 13.99
+  }
+]
